@@ -1,2 +1,0 @@
-# Percetron
-Proyecto Perceptrones multicapa
